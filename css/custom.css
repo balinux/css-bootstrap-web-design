@@ -1,0 +1,12 @@
+.btn-primary {
+    background: #00BFA6;
+    border: 0px;
+    padding: 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background: #029A87;
+    border: 0px;
+}
