@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balinux/css-bootstrap-web-design.git"
+  },
+  "keywords": [],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balinux/css-bootstrap-web-design/issues"
+  },
+  "homepage": "https://github.com/balinux/css-bootstrap-web-design#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
