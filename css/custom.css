@@ -42,6 +42,11 @@
     color: #2F281E;
 }
 
+.navbar-brand .logo {
+    font-family: 'Poppins';
+    font-weight: bold;
+    color: #00BFA6;
+}
 @media only screen and (max-width: 768px){
     .btn-primary, .btn-secondary {
         margin-top: 10px;
