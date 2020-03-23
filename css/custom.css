@@ -10,3 +10,41 @@
     background: #029A87;
     border: 0px;
 }
+
+.btn-secondary {
+    background: none;
+    border: 1px solid #BCD0e5;
+    padding: 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #173a56;
+}
+
+.btn-secondary:hover {
+    background: none;
+    border: 1px solid rgb(159, 177, 197);
+    color: #173a56;
+}
+
+.hero h1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.hero p {
+    font-family: 'Poppins';
+    font-weight: 400;
+    color: #2F281E;
+}
+
+.navbar-nav .nav-link{
+    color: #2F281E;
+}
+
+@media only screen and (max-width: 768px){
+    .btn-primary, .btn-secondary {
+        margin-top: 10px;
+        margin-left: 0px !important;
+    }
+}
